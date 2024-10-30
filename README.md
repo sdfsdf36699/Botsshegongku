@@ -27,6 +27,7 @@
 <br>
 ### 繁花社工库
 地址: [@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_IYCZIFRK)
+补充：[@FanHuaDingWeiBot](https://t.me/FanHuaSW_bot?start=FanHua_QQENTDKU)
 <br>
 ### Space社工库机器人（推）
 地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=9tYvQNjKGJ)
