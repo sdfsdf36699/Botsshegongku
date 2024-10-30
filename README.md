@@ -15,30 +15,30 @@
 **注意：以下社工库机器人均需要VPN和Telegram配合下才能使用，否则用不了，只贴好用的全的质量高的，少的不贴**
 <br>
 
-### Seed社工库
+### Seed社工库（推）
 
 地址: [@SeedSGKBOT](https://t.me/SeedSGKBOT?start=iyf7jpz14)
 <br>
 
-### 星盾社工库（力推）
+### 星盾社工库（全力推）
 
 
 地址: [@XingDun6Bot](https://t.me/XingDun6Bot?start=gd26p7v)
 <br>
 ### 繁花社工库
-地址: [@FanHuaSGK_bot](t.me/FanHuaSGK_bot?start=FanHua_IYCZIFRK)
+地址: [@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_IYCZIFRK)
 <br>
-### Space社工库机器人
+### Space社工库机器人（推）
 地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=9tYvQNjKGJ)
 <br>
 
 
-### AISGK社工库（这个力推）
-地址: [@aishegongkubot](t.me/aishegongkubot?start=AISGK_MU1ZC3FS)
+### AISGK社工库（力推）
+地址: [@aishegongkubot](https://t.me/aishegongkubot?start=AISGK_MU1ZC3FS)
 <br>
 
 
 ### X-ray社工库（力推）
 地址链接：[@Zonesgk_bot](https://t.me/Zonesgk_bot?start=YSZSSAUXZZ)
 ### 平安社工库
-地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=m7SFJe7gWs)地址:[@别针gan_SGK](https://t.me/pingansgk_bot?start=m7SFJe7gWs)
+地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=m7SFJe7gWs)
