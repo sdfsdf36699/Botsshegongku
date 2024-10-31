@@ -41,5 +41,5 @@
 
 ### X-ray社工库（力推）
 地址链接：[@Zonesgk_bot](https://t.me/Zonesgk_bot?start=YSZSSAUXZZ)
-### 平安社工库
+### 平安社工库 还可以
 地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=m7SFJe7gWs)
