@@ -17,7 +17,7 @@
 **2025最新如下**
 <br>
 
-### 诸葛社工库（推）
+### 诸葛社工库
 
 地址: [@SGKSSSbot](https://t.me/SGKSSSbot?start=7484493688)
 <br>
@@ -27,7 +27,7 @@
 地址: [@Freeshegongbot](https://t.me/Freeshegongku_bot?start=7484493688pr14wt)
 <br>
 
-### 冰岛
+### 冰岛（推）
 
 地址: [@BingDaoSGKBot](https://t.me/BingDaoSGKBot?start=imSmqeO5)
 <br>
@@ -42,12 +42,12 @@
 地址: [@DeepWebSGK](https://t.me/DeepWebSGK_bot?start=hPSv2BI3Gg6m)
 <br>
 
-### 天网
+### 天网（推）
 
 地址: [@tianwangchadangTop1_bot](https://t.me/tianwangchadangTop1_bot?start=NzQ4NDQ5MzY4OA==)
 <br>
 
-### 巨人免费
+### 巨人免费（推）
 
 地址: [@jrsgk1_bot](https://t.me/jrsgk1_bot?start=NzQ4NDQ5MzY4OA==)
 <br>
@@ -57,17 +57,17 @@
 地址: [@HereisHopeBot](https://t.me/HereisHopeBot?start=X0d5d53701e79f2dcd0c3297c200d959c)
 <br>
 
-### 迷你世界
+### 迷你世界（推）
 
 地址: [@mnsjsgkbot](https://t.me/mnsjsgkbot?start=8863944847)
 <br>
 
-### DATA
+### DATA（推）
 
 地址: [@datasgk_bot](https://t.me/datasgk_bot?start=7484493688)
 <br>
 
-### 牧笛
+### 牧笛（推）
 
 地址: [@Mudid_bot](https://t.me/Mudid_bot?start=5baf8e670e)
 <br>
@@ -77,7 +77,7 @@
 地址: [@vapehbot](https://t.me/vapehbot?start=7484493688)
 <br>
 
-### 好旺
+### 好旺（推）
 
 地址: [@haowangshegongkubot](https://t.me/haowangshegongkubot?start=WWTCH4JXGPGCGHCK6JS72)
 <br>
@@ -87,12 +87,12 @@
 地址: [@AEON_SGKBOT](https://t.me/AEON_SGKBOT?start=7484493688)
 <br>
 
-### 朱雀
+### 朱雀（推）
 
 地址: [@qbjSGKxuanwubot](https://t.me/qbjSGKxuanwubot?start=NzQ4NDQ5MzY4OA==)
 <br>
 
-### 花花
+### 花花（推）
 
 地址: [@sgkvipbot](https://t.me/sgkvipbot?start=vip_1228062)
 <br>
