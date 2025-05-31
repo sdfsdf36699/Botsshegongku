@@ -22,6 +22,21 @@
 地址: [@SGKSSSbot](https://t.me/SGKSSSbot?start=7484493688)
 <br>
 
+### 朱雀（推）
+
+地址：[@ZHUQUEbot](https://t.me/QingBaoJuXuanwubot?start=NzQ4NDQ5MzY4OA==)
+<br>
+
+### 暗影
+
+地址：[aySGKbot](https://t.me/aySGKbot?start=7484493688)
+<br>
+
+### 小孩哥（力推）
+
+地址：[@xiaohaige_wangshubot](https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4)
+<br>
+
 ### 空壳
 
 地址: [@Freeshegongbot](https://t.me/Freeshegongku_bot?start=7484493688pr14wt)
@@ -45,11 +60,6 @@
 ### 巨人免费（推）
 
 地址: [@jrsgk1_bot](https://t.me/jrsgk2_bot?start=NzQ4NDQ5MzY4OA==)
-<br>
-
-### 迷你世界
-
-地址: [@mnsjsgkbot](https://t.me/mnsjsgkbot?start=8863944847)
 <br>
 
 ### 牧笛（推）
