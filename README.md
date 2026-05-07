@@ -17,6 +17,11 @@
 **2026最新如下**
 <br>
 
+### kali社工库（推）
+
+地址: [@kalibot](https://t.me/mfsgk?start=da9906)
+<br>
+
 ### 诸葛社工库（推）
 
 地址: [@SGKSSSbot](https://t.me/SGKSSSbot?start=7484493688)
