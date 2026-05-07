@@ -27,6 +27,11 @@
 地址：[@ZHUQUEbot](https://t.me/QingBaoJuXuanwubot?start=NzQ4NDQ5MzY4OA==)
 <br>
 
+### 一诺（推）
+
+地址：[@Yinuobot]((https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4）
+<br>
+
 ### 暗影
 
 地址：[aySGKbot](https://t.me/AnYingSGKbot?start=7484493688)
