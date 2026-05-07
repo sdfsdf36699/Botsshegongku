@@ -29,7 +29,7 @@
 
 ### 一诺（推）
 
-地址：[@Yinuobot]((https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4）
+地址：[@Yinuobot](https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4)
 <br>
 
 ### 暗影
