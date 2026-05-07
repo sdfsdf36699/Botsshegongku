@@ -24,15 +24,11 @@
 
 ### 诸葛社工库（推）
 
-地址: [@SGKSSSbot](https://t.me/SGKSSSbot?start=7484493688)
+地址: [@SGKSSSbot](https://t.me/sima7bot?start=7484493688)
+
 <br>
 
-### 朱雀（推）
-
-地址：[@ZHUQUEbot](https://t.me/QingBaoJuXuanwubot?start=NzQ4NDQ5MzY4OA==)
-<br>
-
-### 一诺（推）
+### 一诺（力推）
 
 地址：[@Yinuobot](https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4)
 <br>
@@ -42,35 +38,11 @@
 地址：[aySGKbot](https://t.me/AnYingSGKbot?start=7484493688)
 <br>
 
-### 小孩哥（力推）
-
-地址：[@xiaohaige_wangshubot](https://t.me/xiaohaige_wangshubot?start=9ZZ0YBLCOSmLaB4)
-<br>
-
 ### 空壳
 
 地址: [@Freeshegongbot](https://t.me/Freeshegongku_bot?start=7484493688pr14wt)
 <br>
 
-### 冰岛（推）
-
-地址: [@BingDaoSGKBot](https://t.me/BingDaoSGKBot?start=imSmqeO5)
-<br>
-
-### 深网（推）
-
-地址: [@DeepWebSGK](https://t.me/DeepWebSGK_bot?start=hPSv2BI3Gg6m)
-<br>
-
-### 天网（力推）
-
-地址: [@tianwangchadangTop1_bot](https://t.me/tianwangchadangTop1_bot?start=NzQ4NDQ5MzY4OA==)
-<br>
-
-### 巨人免费（推）
-
-地址: [@jrsgk1_bot](https://t.me/jrsgk2_bot?start=NzQ4NDQ5MzY4OA==)
-<br>
 
 ### 牧笛（推）
 
@@ -82,24 +54,13 @@
 地址: [@haowangshegongkubot](https://t.me/haowangshegongkubot?start=WWTCH4JXGPGCGHCK6JS72)
 <br>
 
-### 永旺（推）
-
-地址: [@AEON_SGKBOT](https://t.me/AEON_SGKBOT?start=7484493688)
-<br>
-
 ### 花花（推）
 
 地址: [@sgkvipbot](https://t.me/sgkvipbot?start=vip_1228062)
 <br>
 
-**2024如下 已删掉不可用的机器人**
-<br>
-
-### 星盾社工库（全力推）
-
-
-地址: [@XingDun6Bot](https://t.me/XingDun6Bot?start=gd26p7v)
+**2025如下 已删掉不可用的机器人**
 <br>
 
 ### X-ray社工库（力推）
-地址链接：[@Zonesgk_bot](https://t.me/Zonesgk_bot?start=YSZSSAUXZZ)
+地址链接：[@Zonesgk_bot](https://t.me/Xray_E_Bot?start=YSZSSAUXZZ)
